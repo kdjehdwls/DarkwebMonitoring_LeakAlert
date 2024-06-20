@@ -9,13 +9,9 @@
 ![Web.jpg](https://github.com/kdjehdwls/DarkwebMonitoring_LeakAlert/blob/master/img/Web.png)
 
 
-**2. 로컬 환경에서 실행하고 싶다면?**
+**2. 유출 데이터 알람**
 
-pip install -r requirements.txt 명령어로 모듈 설치 후 
-
-app.py 열어서 직접 실행하거나 python app.py 명령어로 구동
-
-#
+- 
 
 
 <img width="80%" src="https://github.com/kdjehdwls/DarkwebMonitoring_LeakAlert/assets/50543442/e0189056-639e-446f-ab1d-6af62887fdf9"/>
