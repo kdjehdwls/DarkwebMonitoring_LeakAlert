@@ -13,7 +13,7 @@
 **2. 유출 데이터 알람**
 
 - 서버에서 스케쥴링을 활용하여 주기적으로 cwaler.py를 실행
-- db에 새로운 유출데이터 업데이트 (update.py)
+- db에 새로운 유출데이터 업데이트 (update_db.py)
 - 새로운 유출데이터 Slack 알람 (slack_alarm.py)
 
 ![Slack_alert.png](https://github.com/kdjehdwls/DarkwebMonitoring_LeakAlert/blob/master/img/Slack_alert.png)
